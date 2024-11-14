@@ -1,1 +1,2 @@
 # NTI_Graduation_Project
+The VTS (vehicle tracking system) developed to Offer the customer an easy way of tracking his vehicles through connecting to cloud which interact with dashboard and enabling live tracking precisely, using STM103 (cortex m3) interacting with GSM SIM 800L and GPS through UART and applying HTTP connection with dashboard to report driving mode and internal status and drawing vehicle route.
